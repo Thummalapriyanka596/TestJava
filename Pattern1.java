@@ -1,6 +1,6 @@
 /*https://www.simplilearn.com/tutorials/java-tutorial/pattern-programs-in-java
 https://www.educba.com/number-patterns-in-java/ */
-//patern program
+//patern program to display pyramid
 class Pattern1
 {
     public static void main(String args[])
