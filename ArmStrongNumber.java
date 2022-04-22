@@ -1,6 +1,7 @@
 import java.io.*;
 import java.util.*;
 //import java
+//program
 class ArmStrongNumber
 {
     public static void main(String args[])
